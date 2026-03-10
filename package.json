@@ -1,0 +1,25 @@
+{
+  "name": "nnptud_10_3_26",
+  "version": "1.0.0",
+  "description": "Hoàng Dương Bình 2280600262",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoangBinh1612/NNPTUD_10_3_26.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoangBinh1612/NNPTUD_10_3_26/issues"
+  },
+  "homepage": "https://github.com/HoangBinh1612/NNPTUD_10_3_26#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4",
+    "slugify": "^1.6.6"
+  }
+}
